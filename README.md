@@ -21,3 +21,6 @@ I have experience in
 * Front-end
 * Discord bots
 * Automation
+
+You can reach out to me on Discord:
+**PogoDigitalism**
