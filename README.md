@@ -21,6 +21,3 @@ I have experience in
 * Front-end
 * Discord bots
 * Automation
-
-My strengths are:
-* 
