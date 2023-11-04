@@ -15,11 +15,12 @@ A self-taught developer with 2+ years of experience.
 I have experience in
 * Blockchain development
 * Embedded control
+* Discord bots
 * API
+* Automation
 * Database management
 * Software
 * Front-end
-* Discord bots
 * Automation
 
 You can reach out to me on Discord:
