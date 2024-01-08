@@ -17,7 +17,6 @@ Experienced in:
 * API
 * Automation
 * Database management
-* Software
 * Front-end
 * Automation
 
