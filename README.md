@@ -12,12 +12,10 @@ Python enthusiast
 
 Experienced in:
 * Blockchain development
-* Embedded control
 * Discord bots
 * API
 * Automation
 * Database management
-* Front-end
 * Automation
 
 You can reach out to me on Discord:
